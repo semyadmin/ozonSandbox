@@ -8,6 +8,6 @@
 ### [F. Отрезки времени (20 баллов)](https://github.com/adminsemy/ozonSandbox/tree/master/F)
 ### [G. Возможные друзья (20 баллов)](https://github.com/adminsemy/ozonSandbox/tree/master/G)
 ### [H. Валидация карты (25 баллов)](https://github.com/adminsemy/ozonSandbox/tree/master/H)
-### [I. Планировщик задач (30 баллов)](https://github.com/adminsemy/ozonSandbox/tree/master/H)
+### [I. Планировщик задач (30 баллов)](https://github.com/adminsemy/ozonSandbox/tree/master/I)
 ### [J. Рифмы (30 баллов)](https://github.com/adminsemy/ozonSandbox/tree/master/J)
 ### [K. Пользователи и заказы (SQL, 10 баллов)](https://github.com/adminsemy/ozonSandbox/tree/master/K)
